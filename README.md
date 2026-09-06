@@ -2,8 +2,6 @@
 
 > Team poster presentation based on CNN benchmarking (ResNet50, EfficientNetV2-S, VGG16) on AMID V1 balanced subset (2,000 images, 4 classes).
 
-**Original Research Repository:** [AzimPial/Mosquito-Species-Classification-for-Disease-Prevention](https://github.com/AzimPial/Mosquito-Species-Classification-for-Disease-Prevention)  
-**Fork maintained by:** [naimasultana553-sys](https://github.com/naimasultana553-sys) for academic poster presentation — Southeast University, CSE.
 
 ### Team
 - Azim Pial (2023200000601)
@@ -45,10 +43,4 @@ Training/validation curves, pipeline flowchart, accuracy & time comparisons in `
 ### Reports & Notebooks
 - `EfficientNetV2_S.ipynb`, `ResNet50.ipynb`
 - `EfficientNetV2S_Aedes_Mosquito_Classification_Report.pdf`
-- `ResNet50_Aedes_Mosquito_Classification_Report.pdf`
 
-### Citation & Attribution
-This repo is a **fork with attribution** for educational poster presentation. Original work by AzimPial. Please cite original repo and AMID V1 dataset. All mosquito images and figures retained from original with credit.
-
-### License
-Follow original repository license. For academic use.
